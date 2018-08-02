@@ -24,9 +24,7 @@ for match in aaa:
 # os.sep  # 这个就是分隔符，为你使用该系统的分隔符 (windows '\';linux '/')
 # os.pardir  # 获取当前目录的父目录名称，字符串('..')
 
-'''
-	author:daihui
-'''
+
 import os
 
 
